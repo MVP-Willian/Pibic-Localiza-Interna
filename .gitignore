@@ -1,4 +1,5 @@
-PIBIC_AMBIENTE/
+PDD_AMBIENTE/
+AMBIENTE_ML
 lib
 pip
 urls.py
